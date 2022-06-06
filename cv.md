@@ -4,7 +4,7 @@
 - <sb1866@yandex.ru>
 - +7 (902) 189-3786
 - discord :  sb1866#9338
-- Ulyanovsk
+- Ulyanovsk city
 
 ## Experience
 
@@ -16,7 +16,6 @@ Text
  - 1
  - 2
  - 3
-
 
 ## Education
 
