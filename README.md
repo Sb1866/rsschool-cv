@@ -1,1 +1,1 @@
-https://Sb1866.github.io/rsschool-cv/cv
+https://Sb1866.github.io/rsschool-cv/
